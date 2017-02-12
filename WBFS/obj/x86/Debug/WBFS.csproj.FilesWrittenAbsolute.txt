@@ -1,0 +1,5 @@
+/Users/Fadi/Desktop/WBFS/WBFS/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Fadi/Desktop/WBFS/WBFS/bin/Debug/WBFS.exe.mdb
+/Users/Fadi/Desktop/WBFS/WBFS/bin/Debug/WBFS.exe
+/Users/Fadi/Desktop/WBFS/WBFS/obj/x86/Debug/WBFS.exe
+/Users/Fadi/Desktop/WBFS/WBFS/obj/x86/Debug/WBFS.exe.mdb
